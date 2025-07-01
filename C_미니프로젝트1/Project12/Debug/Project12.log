@@ -1,4 +1,0 @@
-﻿  search_member.c
-C:\Users\gksdn\source\repos\Project12\Project12\search_member.c(15,15): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
-C:\Users\gksdn\source\repos\Project12\Project12\search_member.c(16,6): warning C4101: 'op' :참조되지 않은 지역 변수입니다.
-  Project12.vcxproj -> C:\Users\gksdn\source\repos\Project12\Debug\Project12.exe
